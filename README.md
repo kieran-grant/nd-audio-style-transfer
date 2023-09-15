@@ -6,7 +6,7 @@
 
 ## Style Matching Examples
 
-You can find examples of style matching performance here: [https://nondiff-style-transfer.streamlit.app/](https://nd-audio-style-transfer.streamlit.app/)
+You can find examples of style matching performance here: [https://nd-audio-style-transfer.streamlit.app/](https://nd-audio-style-transfer.streamlit.app/)
 
 ## How to run this project
 
